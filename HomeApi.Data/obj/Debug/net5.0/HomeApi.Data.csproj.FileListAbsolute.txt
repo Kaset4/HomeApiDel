@@ -1,0 +1,12 @@
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\bin\Debug\net5.0\HomeApi.Data.deps.json
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\bin\Debug\net5.0\HomeApi.Data.dll
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\bin\Debug\net5.0\HomeApi.Data.pdb
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.AssemblyInfo.cs
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.dll
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\refint\HomeApi.Data.dll
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\HomeApi.Data.pdb
+C:\Users\Егор\source\repos\HomeApi-final\HomeApi.Data\obj\Debug\net5.0\ref\HomeApi.Data.dll
